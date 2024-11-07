@@ -2,9 +2,7 @@
 layout: default
 title: Ivette Pizarro
 ---
-<img src="https://github.com/Ivette174/Ivette174.github.io/blob/main/IMG_6767.JPG?raw=true" alt="My Photo" width="200px" style="border-radius: 50%;" />
-
-![My Photo](https://github.com/Ivette174/Ivette174.github.io/blob/main/IMG_6767.JPG?raw=true)
+<img src="https://github.com/Ivette174/Ivette174.github.io/blob/main/IMG_6767.JPG?raw=true" alt="My Photo" width="400px" />
 
 
 ## Hi!! Welcome to my website, here is a little about me :)!
