@@ -2,7 +2,10 @@
 layout: default
 title: Ivette Pizarro
 ---
-<img src="https://github.com/Ivette174/Ivette174.github.io/blob/main/IMG_6767.JPG?raw=true" alt="My Photo" width="400px" />
+<div style="text-align: center;">
+  <img src="https://github.com/Ivette174/Ivette174.github.io/blob/main/IMG_6767.JPG?raw=true" alt="My Photo" width="350px" />
+</div>
+
 
 
 ## Hi!! Welcome to my website, here is a little about me :)!
