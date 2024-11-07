@@ -1,6 +1,6 @@
 ---
 layout: default
-title:Home
+title: Ivette Pizarro
 ---
 
 # Hi!! Welcome to my website
