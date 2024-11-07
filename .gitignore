@@ -1,0 +1,13 @@
+# Ignore build directories
+cmake-build-debug/
+cmake-build-release/
+CMakeFiles/
+
+# Ignore CLion project files
+.idea/
+
+# Ignore macOS system files
+*.DS_Store
+
+# Ignore log files
+*.log
