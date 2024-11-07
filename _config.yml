@@ -1,8 +1,8 @@
-Title: "Ivette Pizarro"
+title: "Ivette Pizarro"
 description: "A Website about me :)"
 theme: jekyll-theme-cayman
 nav:
--name: "Home"
-link:"/"
--name: "Projects"
-link: "/projects"
+  - name: "Home"
+    link: "/"
+  - name: "Projects"
+    link: "/projects"
