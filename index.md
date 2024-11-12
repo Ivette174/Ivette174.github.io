@@ -2,6 +2,11 @@
 layout: default
 title: Ivette Pizarro
 ---
+
+<a href="https://www.linkedin.com/in/ipizarro26" target="_blank">
+    <img src="https://github.com/Ivette174/Ivette174.github.io/blob/main/Image%2011.jpg?raw=true" alt="LinkedIn Profile" width="40px" style="display: block; margin: 0 auto;" />
+</a>
+
 <div style="text-align: center;">
   <img src="https://github.com/Ivette174/Ivette174.github.io/blob/main/IMG_6767.JPG?raw=true" alt="My Photo" width="350px" />
 </div>
