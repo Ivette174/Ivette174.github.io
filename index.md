@@ -4,7 +4,7 @@ title: Ivette Pizarro
 ---
 
 <a href="https://www.linkedin.com/in/ipizarro26" target="_blank">
-    <img src="https://github.com/Ivette174/Ivette174.github.io/blob/main/Image%2011.jpg?raw=true" alt="LinkedIn Profile" width="60px" style="display: block; margin: 0 auto;" />
+    <img src="https://github.com/Ivette174/Ivette174.github.io/blob/main/png-transparent-linkedin-computer-icons-blog-logo-watercolor-butterfly-angle-text-rectangle.png?raw=true" alt="LinkedIn Profile" width="60px" style="display: block; margin: 0 auto;" />
 </a>
 
 <div style="text-align: center;">
