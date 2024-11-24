@@ -14,9 +14,9 @@ title: Ivette Pizarro
 
 
 ## Hi!! Welcome to my website, here is a little about me :)!
-Hi, I’m Ivette! I’m a third-year Computer Engineering major at the University of Arkansas, minoring in Finance. My passion lies in bridging technology and financial insights, and I’m actively pursuing opportunities in software development and engineering to bring my skills to real-world applications.
+Hi, I’m Ivette! I’m a third-year Computer Engineering major at the University of Arkansas, minoring in Finance. My passion lies in bridging technology and financial insights, and I’m actively pursuing opportunities in software development and engineering to bring my skills to real-world problems.
 
-Beyond academics, I’m a morning runner and coffee enthusiast, finding energy in my routines and inspiration in sunlit study spaces. These habits drive my focus and bring a fresh perspective to my work, whether I’m diving into code, analyzing data, or optimizing financial strategies. My blend of technical expertise and analytical skills in finance equips me with a unique foundation for roles in engineering and technology.
+Beyond academics, I’m a morning runner and coffee enthusiast, finding energy in my routines and inspiration in sunlit study spaces. These habits drive my focus and bring a fresh perspective to my work, whether I’m diving into code, analyzing data, or optimizing financial strategies. My blend of technical experience and analytical skills in finance give me a unique foundation for roles in engineering and technology.
 
 I’m eager to contribute to innovative teams where I can continue learning, problem-solving, and making an impact.
 # Projects
